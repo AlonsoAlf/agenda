@@ -1,5 +1,6 @@
 import 'utils.dart/utils.dart';
 String main(){
+  DataBase.instalacion();
   bool ejecutando = true;
   String pantalla = Navegacion.inicio;
   while(ejecutando){

@@ -26,4 +26,7 @@ abstract class Navegacion {
         return "salir";
     }
   }
+  /*static String mostrarTareas(){
+    //metodo que realice una llamada a la bbdd y esta nos devuelva las tareas
+  }*/
 }
